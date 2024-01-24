@@ -1,1 +1,3 @@
-# tanzeela
+# Sales_Analysis_Python
+Python project for Analyzing sales data to improve customer experience and sales.
+project aims to Performed Data Cleaning and Data Manipulation and Performed Exploratory Data Analysis (EDA) using Pandas, NumPy, Matplotlib, and Seaborn Libraries. Improved Customer experience by identifying potential customers across different states, occupation, gender and age groups. And also improved sales by identifying most selling product categories and products, which can help to plan inventory and hence meet the demands. The purpose of the used Diwali Sales dataset has been taken from Kaggle since it is one of the ideal dataset for performing EDA and taking a step towards the most amazing and interesting field of data science.
